@@ -1,0 +1,12 @@
+Clustering results file:./clustering_results_batch_folder_1/clustering_result50.csv
+gold standard file:./ground_thruth_files_batch_folder_1/ground_thruth50.csv
+
+Number of clusters available in the gold standard: 8
+Number of objects available in the gold standard: 100
+Number of clusters available in the clustering result: 10
+Number of objects available in the clustering result: 100
+Number of objects available in the clustering result that are present in the gold standard:100
+Precision = 86.0
+Recall = 64.0
+F1-score = 73.38666666666667
+ARI = 45.21535483562615
