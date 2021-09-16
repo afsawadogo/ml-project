@@ -3,17 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.txt
-clustering_results_batch_folder_0/
-clustering_results_batch_folder_1/
-clustering_results_batch_folder_2/
+clustering_results_batch_folder_0/*
+clustering_results_batch_folder_1/*
+clustering_results_batch_folder_2/*
 
-results_files_batch_folder_0/
-results_files_batch_folder_1/
-results_files_batch_folder_2/
+results_files_batch_folder_0/*
+results_files_batch_folder_1/*
+results_files_batch_folder_2/*
 
-ground_thruth_files_batch_folder_0/
-ground_thruth_files_batch_folder_1/
-ground_thruth_files_batch_folder_2/
+ground_thruth_files_batch_folder_0/*
+ground_thruth_files_batch_folder_1/*
+ground_thruth_files_batch_folder_2/*
 
 # Jupyter Notebook
 .ipynb_checkpoints
